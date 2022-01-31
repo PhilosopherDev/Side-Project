@@ -7,6 +7,7 @@
 
 
 ## byungmin choi
+  -    [Live Site](http://byungmin-choi.com)
   - 🗄️ [Github](https://github.com/PhilosopherProgrammer/byungmin-choi)
   
 ## readme generator
