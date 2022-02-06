@@ -7,11 +7,12 @@
 
 
 ## byungmin choi
-  - :globe_with_meridians: [Live Site](http://byungmin-choi.com)
+  - 🌐 [Live Site](http://byungmin-choi.com)
   - 🗄️ [Github](https://github.com/PhilosopherProgrammer/byungmin-choi)
   
 ## readme generator
   - 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
   
 ## sentence shaker
+  - 🌐 [Live Site](https://philosopherprogrammer.github.io/sentence-shaker/)
   - 🗄️ [Github](https://github.com/PhilosopherProgrammer/sentence-shaker)
