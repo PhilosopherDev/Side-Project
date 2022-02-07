@@ -1,4 +1,4 @@
-# SideProject
+# Side Project
 
 - Overview
   - [readme generator](#readme-generator)
