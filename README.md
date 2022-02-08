@@ -1,8 +1,8 @@
 # Side Project
 
 - Overview
-  - [readme generator](#readme-generator)
-  - [sentence shaker](#sentence-shaker)
+  - [Readme Generator](#readme-generator)
+  - [Sentence Shaker](#sentence-shaker)
 <!--   - [byungmin choi](#byungmin-choi) -->
 
 
@@ -10,9 +10,9 @@
   - 🌐 [Live Site](http://byungmin-choi.com)
   - 🗄️ [Github](https://github.com/PhilosopherProgrammer/byungmin-choi) -->
   
-## readme generator
+## Readme Generator
   - 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
   
-## sentence shaker
+## Sentence Shaker
   - 🌐 [Live Site](https://philosopherprogrammer.github.io/sentence-shaker/)
   - 🗄️ [Github](https://github.com/PhilosopherProgrammer/sentence-shaker)
